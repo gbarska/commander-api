@@ -14,7 +14,7 @@
   </ItemGroup>
 
  <ItemGroup>
-   <ProjectReference Include="..\Commander.Logic\Commander.Logic.csproj" />
+   <ProjectReference Include="..\Commander.Domain\Commander.Domain.csproj" />
    <ProjectReference Include="..\Commander.Infra\Commander.Infra.csproj" />
  </ItemGroup>
 
